@@ -1,4 +1,6 @@
 # MAST30034 Project 1 - Quantitative Analysis
+`Note: This is just the copy of the original project repository, the original project repository is kept private and is available upon request.`
+
 - Student Name: Zhi Hern Tom
 - Student ID: 1068268
 - Due Date: Friday 16th of August 11:59:00 am (AEST).
