@@ -20,8 +20,8 @@ This project aims to make a quantitative analysis of the New York City Taxi and 
 - `raw_data`: Contains all the raw data files. 
 - `preprocessed_data`: Contains all the preprocessed data files. 
 - `plots`: Output and save all your figures here.
-- `code`: Keep all notebooks and scripts in this folder. Ensure that you have notebooks for each _stage_ of code. Here's an example:
-    - run "preprocessing.ipynb" to download and preprocess data
-    - run "visualisation.ipynb" for visualisation and exploratory data analysis.
-    - run "modelling.ipynb" for machine learning modelling.
+- `code`: Keep all notebooks and scripts in this folder. Ensure that you have notebooks for each _stage_ of code. Here's the instructions:
+    1. run [preprocessing.ipynb](code/preprocessing.ipynb) to download and preprocess data.
+    2. run [visualisation.ipynb](code/visualisation.ipynb) for visualisation and exploratory data analysis.
+    3. run [modelling.ipynb](code/modelling) for machine learning modelling.
 - `deprecated`: A folder to store "old code".
