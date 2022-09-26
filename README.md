@@ -1,5 +1,5 @@
-## **The University of Melbourne**
-## MAST30034 (Applied Data Science) Project 1 - Quantitative Analysis
+# The University of Melbourne - MAST30034 (Applied Data Science)
+# Project 1 - Quantitative Analysis
 `Note: This is just the copy of the original project repository, the original project repository is kept private and is available upon request.`
 
 - Student Name: Zhi Hern Tom
