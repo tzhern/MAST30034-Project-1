@@ -2,7 +2,6 @@
 # Project 1 - Quantitative Analysis
 `Note: This is just the copy of the original project repository, the original project repository is kept private and is available upon request.`
 
-- Student Name: Zhi Hern Tom
 - Due Date: Friday 16th of August 2021 11:59:00 am (AEST).
 - Report Link: https://www.overleaf.com/read/xpddwvkstgfg
 
